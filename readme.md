@@ -16,8 +16,8 @@
 打开终端（CMD / PowerShell / PyCharm Terminal），依次运行：
 
 ```bash
-# 1. 创建名为 controlCar 的虚拟环境 (指定 Python 3.9 以保证兼容性)
-conda create -n controlCar python=3.9
+# 1. 创建名为 controlCar 的虚拟环境 (指定 Python 3.13 以保证兼容性)
+conda create -n controlCar python=3.13
 
 # 2. 激活环境
 conda activate controlCar
